@@ -17,3 +17,6 @@ Dataset/
 ## How to Run
 1. Install dependencies: `torch`, `opencv-python`, `scikit-learn`, `numpy`, `torchvision`.
 2. Run `python train.py`.
+
+## HuggingFace
+Model Respository Link: https://huggingface.co/LEGIONM36/Video-Classification-Video-Swin-Transformer-Model
